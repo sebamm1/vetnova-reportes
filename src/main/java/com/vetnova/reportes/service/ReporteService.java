@@ -18,7 +18,8 @@ public class ReporteService {
     }
 
     public Reporte guardarReporte(Reporte reporte) {
-        logger.info("LOG: Guardando reporte con descripción: {}", reporte.getDescripcion());
+        // Cambiamos a un log que no dependa de métodos específicos de tu modelo
+        logger.info("LOG: Procesando guardado de nuevo reporte.");
         return repository.save(reporte);
     }
 
