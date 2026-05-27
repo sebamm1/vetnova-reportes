@@ -4,7 +4,7 @@
 Microservicio encargado de gestionar los reportes analíticos de la clínica veterinaria VetNova. Recibe datos del microservicio de Soporte y registra métricas como total de atenciones, alertas generadas y rendimiento global.
 
 ## Integrantes
-- Sebastián (completar con apellido y compañeros)
+- Sebastián Miranda, Bastian Chamblas, Vicente Provoste
 
 ## Funcionalidades implementadas
 - CRUD completo de reportes
